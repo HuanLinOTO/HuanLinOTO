@@ -1,3 +1,6 @@
-![HuanLinOTO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuanLinOTO&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
-
-![HuanLinOTO's Stats](https://github-readme-stats.vercel.app/api?username=HuanLinOTO&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+<a href="https://ghfind.com/u/huanlinoto?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/huanlinoto?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/huanlinoto?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
